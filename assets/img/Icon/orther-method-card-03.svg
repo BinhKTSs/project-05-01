@@ -1,0 +1,33 @@
+<svg width="63" height="48" viewBox="0 0 63 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="63" height="48" fill="#F5F5F5"/>
+<g id="Mobile Banking Website">
+<rect width="1440" height="6051" transform="translate(-588 -2798)" fill="white"/>
+<g id="Feature 2">
+<g id="Content">
+<g id="Group 17435">
+<path id="Rectangle 3830" d="M9 133H-445C-449.418 133 -453 129.418 -453 125V-199.546C-453 -203.367 -450.299 -206.654 -446.551 -207.394L7.44907 -297.113C12.3943 -298.09 17 -294.305 17 -289.264V125C17 129.418 13.4183 133 9 133Z" fill="#92C2C2"/>
+</g>
+<g id="Card">
+<g id="Rectangle 3831" filter="url(#filter0_d_0_1)">
+<path d="M-190 -134C-190 -139.523 -185.523 -144 -180 -144H81C86.5229 -144 91 -139.523 91 -134V66C91 71.5228 86.5229 76 81 76H-180C-185.523 76 -190 71.5228 -190 66V-134Z" fill="white"/>
+</g>
+<g id="Group 2709">
+<rect id="Rectangle 3833" width="63" height="48" rx="4" fill="#F9EA63"/>
+<path id="Union" d="M32.5 16H30.5V22.5H24V24.5H30.5V31H32.5V24.5H39V22.5H32.5V16Z" fill="#212832"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-238" y="-148" width="377" height="316" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="44"/>
+<feGaussianBlur stdDeviation="24"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+</defs>
+</svg>
